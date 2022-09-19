@@ -62,7 +62,7 @@ html, body {
 }
 
 .nav.active {
-    background-image: url("/Images/Menu-Icon-Reset.png");
+    background-image: url("../Images/Menu-Icon-Reset.png");
 }
 
 .nav:hover {
